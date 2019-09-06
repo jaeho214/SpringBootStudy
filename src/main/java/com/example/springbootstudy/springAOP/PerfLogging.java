@@ -1,4 +1,4 @@
-package com.example.springbootstudy;
+package com.example.springbootstudy.springAOP;
 
 import java.lang.annotation.*;
 
